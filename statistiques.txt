@@ -1,0 +1,4 @@
+Rapport statistique
+===================
+Colonne: ID | Moyenne: 110,50 | Min: 101,00 | Max: 120,00 | Valeurs utilisees: 20
+Colonne: Age | Moyenne: 31,06 | Min: 18,00 | Max: 52,00 | Valeurs utilisees: 17
